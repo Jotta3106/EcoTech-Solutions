@@ -35,9 +35,3 @@ python menu_principal.py
 
 Notas importantes
 - He preferido cambiar el código para que sea tolerante a la estructura actual de la tabla en tu base de datos. Si prefieres que el código requiera columnas específicas (p. ej. `turno`, `cod_departamento`), puedo actualizar el `INSERT` y la tabla en la BD para que coincidan.
-
-Si quieres, puedo:
-- A) Modificar el `INSERT` para incluir `inicio_contrato` y `cod_empleado` (indícame cómo generarlos). 
-- B) Crear una pequeña guía para normalizar nombres en todo el proyecto.
-
-Archivo con el registro de cambios: este README.
